@@ -1,0 +1,2 @@
+# docs
+Fafnir Linux documentation
