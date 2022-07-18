@@ -1,2 +1,0 @@
-# docs
-Fafnir Linux documentation
